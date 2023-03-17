@@ -1,0 +1,4 @@
+﻿  源.cpp
+F:\C\GameProject\ProjectCardGame\源.cpp(10,1): warning C4005: “FALSE”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(71): message : 参见“FALSE”的前一个定义
+  ProjectCardGame.vcxproj -> F:\C\GameProject\ProjectCardGame\Debug\ProjectCardGame.exe

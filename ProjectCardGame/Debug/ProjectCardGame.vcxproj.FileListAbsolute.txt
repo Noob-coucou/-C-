@@ -1,0 +1,2 @@
+F:\C\GameProject\ProjectCardGame\Debug\ProjectCardGame.exe
+F:\C\GameProject\ProjectCardGame\Debug\ProjectCardGame.pdb
